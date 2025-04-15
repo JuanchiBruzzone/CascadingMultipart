@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CascadingMultipart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1040c1bd537b6a830aa28e195d580a1aebbb92f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CascadingMultipart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CascadingMultipart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
